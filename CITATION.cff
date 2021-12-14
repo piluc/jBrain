@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: d'Amore
+    given-names: Francesco
+  - family-names: Mitropolsky
+    given-names: Daniel
+  - family-names: Crescenzi
+    given-names: Pierluigi
+  - family-names: Natale
+    given-names: Emanuele
+  - family-names: Papadimitriou
+    given-names: Christos H.
+title: "jBrain"
+version: 0.1
+date-released: 2021-12-14
