@@ -1,5 +1,5 @@
 # jBrain
-Software associated with the AAAI paper
+Software associated with the AAAI 2022 paper
 
 *Francesco D'Amore, Daniel Mitropolsky, Pierluigi Crescenzi, Emanuele Natale, Christos H. Papadimitriou*, **Planning with Biological Neurons and Synapses**.
 
